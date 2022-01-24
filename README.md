@@ -7,6 +7,16 @@ to gather all necessary data.
 
 ***
 
+#Visualisation
+
+!(pic1.png)
+
+!(pic2.png)
+
+!(pic3.png)
+
+***
+
 # Start up 
 1. Download repository
 2. Run "npm install"
