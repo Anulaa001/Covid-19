@@ -9,11 +9,11 @@ to gather all necessary data.
 
 #Visualisation
 
-!(https://github.com/Anulaa001/Covid-19/blob/master/pic1.png)
+![picture 1](https://github.com/Anulaa001/Covid-19/blob/master/pic1.png)
 
-!(https://github.com/Anulaa001/Covid-19/blob/master/pic2.png)
+![picture 2](https://github.com/Anulaa001/Covid-19/blob/master/pic2.png)
 
-!(https://github.com/Anulaa001/Covid-19/blob/master/pic3.png)
+![picture 3](https://github.com/Anulaa001/Covid-19/blob/master/pic3.png)
 
 ***
 
